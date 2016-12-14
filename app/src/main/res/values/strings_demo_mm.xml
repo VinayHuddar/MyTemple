@@ -1,0 +1,75 @@
+<resources>
+    <string name="seva_list_satyanarayana_pooja">Shree Satyanarayanaswamy Pooja</string>
+    <string name="seva_list_vade_maale_seve_54">Vade Maale Seva (for 54)</string>
+    <string name="seva_list_vade_maale_seve_108">Vade Maale Seva (for 108)</string>
+    <string name="seva_list_kadubina_alankaara_54">Kadubina Alankara (for 54)</string>
+    <string name="seva_list_kadubina_alankaara_108">Kadubina Alankara (for 108)</string>
+    <string name="seva_list_viled_yele_alankaara">Viled Yele Alankara</string>
+    <string name="seva_list_everyday_prasada">Regular Prasada</string>
+    <string name="seva_list_abhisheka">Abhisheka (every Saturday)</string>
+    <string name="seva_list_naga_deva_pooje">Naga Deva Pooja and Abhisheka</string>
+    <string name="seva_list_navagraha_pooje">Navagraha Pooja</string>
+    <string name="seva_list_navagraha_shanti">Navagraha Shanti</string>
+    <string name="seva_list_butter_alankaara">Butter Alankara</string>
+    <string name="seva_list_cashew_alankaara">Cashew Alankara (only on Tuesdays)</string>
+    <string name="seva_list_special_flower_alankaara">Special Flower Decoration</string>
+    <string name="seva_list_fruits_flowers_alankaara">Fruits and Flowers Decoration</string>
+    <string name="seva_list_tomaala_seve">Tomala Seva Alankara</string>
+
+    <string name="pooja_timing">7 AM\t\t-\t\t11 AM\n6 PM\t\t-\t\t9 PM\nExcept on Saturdays and Special Event Days</string>
+
+    <string name="temple_about_text">"&lt;font color='#3C3C3C'&gt;Maruti Mandira, an island of peace
+        and calm, is located next to Chord road in West Bangalore, Bangalore district of Karnataka.
+        This holy place is called as Koti Bande or Monkey's rock by the locals. The presiding deity
+        of the temple is Lord Hanuman, also called Maruti, the valiant messenger of Lord Ram.
+        &lt;br&gt; &lt;br&gt;There is an interesting story behind the origin of the temple and the
+        deity. Oil paintings of Lord Hanuman and Lord Ganesh were done on the rock by Basanna Shilpi,
+        a national award winning sculptor from Mysore. The temple has a garden with plants for each
+        of the planets in the solar system. &lt;br&gt; &lt;br&gt; Ram Navami and Hanuman Jayanti,
+        the annual festivals of the temple, are celebrated with great color and fervor by the devotees.
+        &lt;/font&gt;"
+    </string>
+
+    <string name="history1_date">June 2005</string>
+    <string name="history2_date">March 2006</string>
+
+    <string name="special_event1_title">Abhisheka and Maha Mangalaarati</string>
+    <string name="special_event1_date">Saturday, 26th Sep 2015</string>
+    <string name="special_event1_description">&lt;b&gt;Abhisheka&lt;/b&gt; from 8.30 AM to 9.30 AM&lt;br&gt;
+        "&lt;b&gt;Alankara and Mahamangalarati&lt;b/&gt; from 12PM&lt;br&gt;Teertha and Prasada will be given&lt;br&gt;
+        "&lt;b&gt;Shri Vishnu Sahasranama, Archane and Bhajane&lt;/b&gt; from 6.30 PM&lt;br&gt;by Shri Maruti Bhajana Mandali
+    </string>
+
+    <string name="special_event2_title">Mass Satyanarayana Pooja</string>
+    <string name="special_event2_date">Full-moon days</string>
+    <string name="special_event2_description">Mass Shri Satyanarayana Pooja will be held&lt;br&gt;
+        every full-moon day from 6.30&lt;br&gt;
+    </string>
+
+    <string name="head_pujari">Archakaru</string>
+    <string name="pujari">Pujari</string>
+    <string name="archakaru">Shri ABC</string>
+    <string name="pujari1">Shri DEF</string>
+    <string name="pujari2">Shri GHI</string>
+    <string name="pujari3">Shri JKL</string>
+    <string name="pujari4">Shri MNO</string>
+
+    <string name="trust_name">Shri Maruti Bhakt Mandali Trust (R)</string>
+    <string name="trust_address">Vijayanagar, Bangalore - 560040</string>
+    <string name="trustee1">Shri V.B.Puttaswamy</string>
+    <string name="trustee2">Shri T.N.Nanjundappa</string>
+    <string name="trustee3">Shri Ramachandra</string>
+    <string name="trustee4">Shri M.Ashwathayya</string>
+    <string name="trustee5">Shri K.H.Govindaraju</string>
+    <string name="trustee6">Shri T.H.Javarayya</string>
+    <string name="trustee7">Shri S.Nagesh</string>
+    <string name="trustee8">Shri H.Ramayya</string>
+    <string name="trustee9">Shri R.P.Reddy</string>
+    <string name="trustee10">Shri G.Shivakumar</string>
+    <string name="trustee11">Shri T.Shrikant</string>
+    <string name="chairman_label">Chairman</string>
+    <string name="secretary_label">Secretary</string>
+    <string name="treasurer_label">Treasurer</string>
+    <string name="trustee_label">Trustee</string>
+
+</resources>

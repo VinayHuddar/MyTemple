@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <include layout="@layout/layout_loading_message" android:id="@+id/loading_message"/>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <LinearLayout android:id="@+id/SevaListDialogFooter"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:background="@color/white">
+                <TextView android:id="@+id/CancelButton"
+                    android:layout_width="0dp"
+                    android:layout_weight="1"
+                    android:layout_height="wrap_content"
+                    android:text="@string/cancel_button"
+                    android:textSize="@dimen/abc_text_size_medium_material"
+                    android:textColor="@color/white"
+                    android:gravity="center_horizontal"
+                    android:clickable="true"
+                    android:background="@drawable/round_corner_primary_color_box"
+                    android:layout_marginTop="3dp"
+                    android:layout_marginBottom="3dp"
+                    android:layout_marginLeft="3dp"
+                    android:padding="5dp"/>
+                <TextView android:id="@+id/BookSevaButton"
+                    android:layout_width="0dp"
+                    android:layout_weight="1"
+                    android:layout_height="wrap_content"
+                    android:text="@string/book_seva_button"
+                    android:textSize="@dimen/abc_text_size_medium_material"
+                    android:textColor="@color/white"
+                    android:gravity="center_horizontal"
+                    android:clickable="true"
+                    android:background="@drawable/round_corner_primary_color_box"
+                    android:layout_margin="3dp"
+                    android:padding="5dp"/>
+            </LinearLayout>
+            <ListView android:id="@+id/SevaList"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:choiceMode="singleChoice"
+                android:layout_above="@id/SevaListDialogFooter" />
+        </RelativeLayout>
+    </FrameLayout>
+
+</RelativeLayout>

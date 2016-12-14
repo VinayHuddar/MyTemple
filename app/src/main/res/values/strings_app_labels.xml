@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">My Temple</string>
+    <string name="title_activity_main">My Temple</string>
+    <string name="title_activity_pujari_listing">Find Pujari</string>
+    <string name="title_activity_pujari_profile">Pujari Profile</string>
+    <string name="title_activity_temple_listing">My Temple</string>
+
+    <string name="find_pujari">Find Pujari</string>
+    <string name="book_pooja">Book Pooja</string>
+    <string name="buy_saamagri">Buy Saamagri</string>
+
+    <string name="pujari_filter_select_pooja">Select Pooja</string>
+    <string name="pujari_filter_select_area">Select Area</string>
+    <string name="pujari_filter_select_languages">Select Language</string>
+    <string name="pujari_filter_select_caste">Select Caste</string>
+    <string name="pujari_filter_select_date">Select Date</string>
+    <string name="pujari_filter_select_time">Select Time</string>
+    <string name="pujari_filter_type_title">Choose Pujari Search Filters</string>
+    <string name="pujari_filter_menu">Pujari Filter</string>
+    <string name="pujari_filter_apply_filter_button">Apply Filters</string>
+
+    <string name="age_label">Age: </string>
+    <string name="community_label">Community: </string>
+    <string name="language_label">Languages: </string>
+    <string name="experience_label">Experience (yrs): </string>
+    <string name="affiliation_label">Affiliation: </string>
+    <string name="rating_label">Rating: </string>
+    <string name="areas_served_label">Areas Served: </string>
+    <string name="city_label">Residing Place: </string>
+    <string name="address_label">Address: </string>
+    <string name="email_label">Email: </string>
+    <string name="pujari_about">About Me</string>
+    <string name="pujas_performed">Pujas Performed</string>
+    <string name="pujari_reviews">Reviews</string>
+    <string name="pujari_rating">Ratings</string>
+
+    <string name="dashboard_tab_title_temple_profile">Profile</string>
+    <string name="dashboard_tab_title_events">Events / Programs</string>
+    <string name="dashboard_tab_title_temple_gallery">Gallery</string>
+    <string name="dashboard_tab_title_online_services">Online Services</string>
+
+    <string name="temple_profile_item_about_temple">About Temple</string>
+    <string name="temple_profile_item_pooja_timing">Pooja Timings</string>
+    <string name="temple_profile_item_seva_list">Seva List</string>
+    <string name="temple_profile_item_temple_history">Temple History</string>
+    <string name="temple_profile_item_pujaris">Poojaris</string>
+    <string name="temple_profile_item_trust">Trust</string>
+    <string name="temple_profile_item_gallery">Gallery</string>
+    <string name="temple_profile_item_facilities">Facilities</string>
+    <string name="temple_profile_item_donors">Donors</string>
+
+    <string name="book_seva_button">Book Seva</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="proceed_button">Proceed</string>
+    <string name="historical_events">Historical Events</string>
+    <string name="pujari_list">Poojaris</string>
+    <string name="temple_facilities">Temple Facilities</string>
+    <string name="trust">Trust</string>
+    <string name="action_donate">Hundi</string>
+    <string name="hundi">Hundi</string>
+    <string name="hundi_title">Please Donate To Temple</string>
+    <string name="hundi_hint_text">Enter Donation Amount</string>
+    <string name="donate_button">Donate</string>
+    <string name="gallery">Gallery</string>
+
+    <string name="online_services_seva_booking">Seva Booking</string>
+    <string name="online_services_prasada_seva_booking">Prasada Seva</string>
+    <string name="online_services_facilites_booking">Facilities Booking</string>
+
+    <string name="seva_list_note">Please go to "Online Services" section for Online seva booking</string>
+
+    <string name="filter_label">Filter</string>
+    <string name="filter_string">Filter based on </string>
+    <string name="choose_subcategory">Please Select...</string>
+    <string name="all_temples">All Temples</string>
+</resources>

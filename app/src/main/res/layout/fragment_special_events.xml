@@ -1,0 +1,19 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.mytemple.androidapp.MyTemple.View.EventsFragment"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white">
+
+    <include layout="@layout/layout_loading_message" android:id="@+id/loading_message"/>
+
+    <ListView android:id="@+id/EventList"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/grey_shade_1"
+        android:padding="10dp"
+        android:divider="@android:color/transparent"
+        android:dividerHeight="10.0sp">
+    </ListView>
+
+</FrameLayout>

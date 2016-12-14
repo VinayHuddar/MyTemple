@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="wrap_content">
+
+    <include layout="@layout/layout_loading_message" android:id="@+id/loading_message"/>
+
+    <RelativeLayout android:id="@+id/SevaListLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <TextView android:id="@+id/SevaListNote"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/seva_list_note"
+            android:textSize="@dimen/abc_text_size_small_material"
+            android:textColor="@color/black"
+            android:layout_alignParentBottom="true"
+            android:padding="10dp"/>
+        <ListView android:id="@+id/SevaList"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_above="@id/SevaListNote"/>
+    </RelativeLayout>
+</FrameLayout>

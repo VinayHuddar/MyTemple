@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:padding="12dp" android:orientation="vertical"
+    android:clickable="true" android:elevation="4dp"
+    android:background="@color/white">
+
+    <ImageView android:id="@+id/NoticeIcon"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:scaleType="fitCenter"
+        android:layout_alignParentLeft="true"
+        android:layout_marginRight="20dp"
+        android:layout_marginLeft="10dp"
+        android:layout_centerVertical="true"/>
+
+    <ImageView android:id="@+id/OpenIcon"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:scaleType="fitCenter"
+        android:src="@drawable/right_arrow"
+        android:layout_alignParentRight="true"
+        android:layout_marginLeft="10dp"
+        android:layout_centerVertical="true"/>
+
+    <TextView android:id="@+id/NoticeTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/NoticeIcon"
+        android:layout_toLeftOf="@id/OpenIcon"
+        android:textSize="@dimen/abc_text_size_small_material"
+        android:textColor="@color/black"
+        android:layout_marginBottom="5dp"/>
+
+    <TextView android:id="@+id/NoticeDescription"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/NoticeIcon"
+        android:layout_toLeftOf="@id/OpenIcon"
+        android:layout_below="@id/NoticeTitle"
+        android:textSize="@dimen/abc_text_size_small_material" />
+
+</RelativeLayout>

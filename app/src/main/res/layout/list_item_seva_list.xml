@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:paddingLeft="10dp"
+    android:paddingRight="10dp"
+    android:paddingTop="3dp">
+    <TextView android:id="@+id/SerialNum"
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/abc_text_size_small_material"
+        android:textColor="@color/black"
+        android:layout_gravity="center"/>
+    <TextView android:id="@+id/SevaName"
+        android:layout_width="0dp"
+        android:layout_weight="6"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/abc_text_size_small_material"
+        android:textColor="@color/black"
+        android:gravity="start"
+        android:lineSpacingMultiplier="1.4"/>
+    <TextView
+        android:id="@+id/SevaPrice"
+        android:layout_width="0dp"
+        android:layout_weight="3"
+        android:layout_height="wrap_content"
+        android:gravity="end|center_vertical"
+        android:textSize="@dimen/abc_text_size_small_material"
+        android:textColor="@color/black" />
+</LinearLayout>

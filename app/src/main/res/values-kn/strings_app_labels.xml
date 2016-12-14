@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">ಪರಿಜ್ಮನ್</string>
+    <string name="title_activity_main">ಪರಿಜ್ಮನ್</string>
+    <string name="title_activity_temple_listing">ಮಾಯ್ ಪೂಜಾ</string>
+
+    <string name="dashboard_tab_title_temple_profile">ದೇವಸ್ಥಾನ ಬಗ್ಗೆ ಮಾಹಿತಿ</string>
+    <string name="dashboard_tab_title_events">ವಿಶೇಷ ಪೂಜೆ / ಕಾರ್ಯಕ್ರಮಗಳು</string>
+    <string name="dashboard_tab_title_temple_gallery">ಚಿತ್ರಗಳು</string>
+    <string name="dashboard_tab_title_online_services">ಆನ್‌ಲೈನ್ ಸೌಲಭ್ಯಗಳು</string>
+
+    <string name="temple_profile_item_about_temple">ಕಿರು ಪರಿಚಯ</string>
+    <string name="temple_profile_item_pooja_timing">ಪೂಜೆ ಸಮಯ</string>
+    <string name="temple_profile_item_seva_list">ಸೇವೆಗಳ ಪಟ್ಟ</string>
+    <string name="temple_profile_item_temple_history">ದೇವಸ್ಥಾನದ ಇತಿಹಾಸ</string>
+    <string name="temple_profile_item_trust">ಟ್ರಸ್ಟ್</string>
+    <string name="temple_profile_item_pujaris">ಪೂಜಾರಿಗಳು</string>
+    <string name="temple_profile_item_gallery">ಚಿತ್ರಗಳು</string>
+    <string name="temple_profile_item_facilities">ಸೌಲಭ್ಯಗಳು</string>
+
+    <string name="book_seva_button">ಸೇವೆ ಬುಕಿಂಗ್</string>
+    <string name="cancel_button">ಕ್ಯಾನ್ಸಲ್</string>
+    <string name="proceed_button">ನೆಕ್ಸ್ಟ್</string>
+    <string name="historical_events">ದೇವಸ್ಥಾನದ ಇತಿಹಾಸದ ಪುಟಗಳು</string>
+    <string name="pujari_list">ಅರ್ಚಕರು / ಪೂಜಾರಿಗಳು</string>
+    <string name="temple_facilities">ಇತರೆ ಸೌಲಭ್ಯಗಳು</string>
+    <string name="trust">ಟ್ರಸ್ಟ್</string>
+    <string name="action_donate">ಹುಂಡಿ</string>
+    <string name="hundi">ಹುಂಡಿ</string>
+    <string name="hundi_hint_text">ಹುಂಡಿಗೆ ಹಾಕುವ ಮೊತ್ತ</string>
+    <string name="donate_button">ಹುಂಡಿಗೆ ಹಾಕು</string>
+    <string name="gallery">ಗ್ಯಾಲರೀ</string>
+
+    <string name="online_services_seva_booking">ಸೇವಾ ಬುಕಿಂಗ್</string>
+    <string name="online_services_prasada_seva_booking">ಪ್ರಸಾದ ಸೇವೆ</string>
+    <string name="online_services_facilites_booking">ಸೌಲಭ್ಯಗಳ ಬುಕಿಂಗ್</string>
+
+    <string name="seva_list_note">ಆನ್‌ಲೈನ್ ಸೇವಾ ಬೂಕಿಂಗಿಗಾಗಿ "ಆನ್‌ಲೈನ್ ಸೌಲಭ್ಯಗಳು" ಸೆಕ್ಶನ್ ಗೆ ಹೋಗಿ </string>
+
+    <string name="filter_label">ಆಯ್ಕೆ ಮಾಡಿ...</string>
+    <string name="filter_string"></string>
+    <string name="choose_subcategory">ಆಯ್ಕೆ ಮಾಡಿ...</string>
+    <string name="all_temples">ಎಲ್ಲ ದೇವಸ್ಥಾನಗಳು</string>
+
+</resources>

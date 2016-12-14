@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/EventLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="5dp"
+    android:elevation="8dp"
+    android:background="@color/white">
+
+    <ImageView android:id="@+id/OpenIcon"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:scaleType="fitCenter"
+        android:src="@drawable/right_arrow"
+        android:layout_alignParentRight="true"
+        android:layout_marginLeft="10dp"
+        android:layout_centerVertical="true"/>
+
+    <TextView android:id="@+id/EventTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_toLeftOf="@id/OpenIcon"
+        android:textSize="@dimen/abc_text_size_subhead_material"
+        android:textColor="@color/black"
+        android:layout_marginBottom="5dp"/>
+
+    <TextView android:id="@+id/EventDate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_toLeftOf="@id/OpenIcon"
+        android:layout_below="@id/EventTitle"
+        android:textSize="@dimen/abc_text_size_small_material"
+        android:textColor="@color/black"/>
+
+</RelativeLayout>
